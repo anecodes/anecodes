@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anecodes&label=Profile%20views&color=0e75b6&style=flat" alt="anecodes" /> </p>
 
-- 🌱 o que eu tô aprendendo no momento: **html5, css3, javascript, typescript, react, next.js + python e sql básico**
+- com o que já tenho experiência (+1 ano): **html5, css3, javascript, typescript, react, next.js, testes unitários com jest, salesforce, microsoft azure e email marketing (utilizando html, css e ampscript)**
+
+- 🌱 o que eu tô aprendendo no momento: **python, r, sql, fundamentos da ciência de dados e estatística e matemática para análise de dados**
 
 - 📝 pratico a escrita técnica e acessível por aqui: [**https://dev.to/anewrites**](https://dev.to/anewrites)
 
