@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">🎓 system analyst && information science and management student @ universidade federal do paraná <br>🔬 jr. data analyst @ projeto parajás/ufpr && undergraduate researcher in NLP @ harmonIA/ufpr<br>✍ (aspiring) prose writer, former scientific translator (pt/en/es) && big fan of lists and footnotes</p>
+<p align="center">🎓 system analyst && information science and management student @ universidade federal do paraná <br>🔬 jr. data analyst @ projeto parajás/ufpr && undergraduate researcher in NLP @ harmonIA/ufpr<br>✍ (aspiring) prose writer and playwright, former scientific translator (pt/en/es) && big fan of lists and footnotes</p>
 
 ###
 
